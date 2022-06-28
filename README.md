@@ -47,75 +47,7 @@ Fig 35: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalizatio
 Fig 36: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Greenparty_2019/digital*.png">digital*.png</a></br>
 Fig 37: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Greenparty_2019/tech*.png">tech*.png</a></br>
 Fig 38: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Greenparty_2019/broadband*%2Cdata*.png">broadband*,data*.png</a></br>
-Fig 39
-Fig 40
-Fig 41
-Fig 42
-Fig 43
-Fig 44
-Fig 45
-Fig 46
-Fig 47
-Fig 48
-Fig 49
-Fig 50
-Fig 51
-Fig 52
-Fig 53
-Fig 54
-Fig 55
-Fig 56
-Fig 57
-Fig 58
-Fig 59
-Fig 60
-Fig 61
-Fig 62
-Fig 63
-Fig 64
-Fig 65
-Fig 66
-Fig 67
-Fig 68
-Fig 69
-Fig 70
-Fig 71
-Fig 72
-Fig 73
-Fig 74
-Fig 75
-Fig 76
-Fig 77
-Fig 78
-Fig 79
-Fig 80
-Fig 81
-Fig 82
-Fig 83
-Fig 84
-Fig 85
-Fig 86
-Fig 87
-Fig 88
-Fig 89
-Fig 90
-Fig 91
-Fig 92
-Fig 93
-Fig 94
-Fig 95
-Fig 96
-Fig 97
-Fig 98
-Fig 99
-Fig 100
-Fig 101
-Fig 102
-Fig 103
-Fig 104
-Fig 105
-Fig 106
-Fig 107
-Fig 108
-Fig 109
-Fig 110
+Fig 39: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/overall/digital*(all).png">digital*(all).png</a></br>
+Fig 40: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/overall/Trends*.png">Trends*.png</a></br>
+Fig 41: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/overall/media*.png">media*.png</a></br><a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/overall/media*2.png">media*2.png</a></br>
+Fig 42: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/overall/online*.png">online*.png</a></br>
