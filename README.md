@@ -16,7 +16,7 @@ Fig 4: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization
 Fig 5: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20party%202020-digital%20policy/digital*.png">digital*.png</a></br> <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20party%202020-digital%20policy/digital*2.png">digital*2.png</a></br>
 Fig 6: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20party%202020-digital%20policy/data*.png">data*.png</a></br>
 Fig 7: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20party%202020-digital%20policy/platform*.png">platform*.png</a></br>
-Fig 8: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/tech*.png">/tech*.png</a></br><a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/tech*2.png">tech*2.png</a></br>
+Fig 8: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/tech*.png">tech*.png</a></br><a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/tech*2.png">tech*2.png</a></br>
 Fig 9: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/broadband*.png">broadband*.png</a></br>
 Fig 10: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/online*.png">online*.png</a></br>
 Fig 11: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Liberal%20Democrats_2019/media*.png">media*.png</a></br>
@@ -32,21 +32,21 @@ Fig 20: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalizatio
 Fig 21: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Sinn%20Féin%202022/broadband*.png">broadband*.png</a></br>
 Fig 22: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/digital*.png">digital*.png</a></br><a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/digital*2.png">digital*2.png</a></br> <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/digital*3.png">digital*3.png</a></br>
 Fig 23: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/tech*.png">tech*.png</a></br> <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/tech*2.png">tech*2.png</a></br>
-Fig 24: <a href="">platform*.png</a></br>
-Fig 25: <a href="">platform*.png</a></br>
-Fig 26: <a href="">platform*.png</a></br>
-Fig 27: <a href="">platform*.png</a></br>
-Fig 28: <a href="">platform*.png</a></br>
-Fig 29: <a href="">platform*.png</a></br>
-Fig 30: <a href="">platform*.png</a></br>
-Fig 31: <a href="">platform*.png</a></br>
-Fig 32: <a href="">platform*.png</a></br>
-Fig 33
-Fig 34
-Fig 35
-Fig 36
-Fig 37
-Fig 38
+Fig 24: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/broadband*.png">broadband*.png</a></br>
+Fig 25: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/data*.png">data*.png</a></br>
+Fig 26: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2021/tele*.png">tele*.png</a></br>
+Fig 27: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Plaid_Cymru_2022/digital%2C%20online%2C%20data%2C%20infrstructure%2C%20internet.png">digital, online, data, infrstructure, internet.png</a></br>
+Fig 28: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Alliance%20Party%20of%20Northern%20Ireland-2019/tech*.png">tech*.png</a></br>
+Fig 29: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Alliance%20Party%20of%20Northern%20Ireland-2019/Internet*.png">Internet*.png</a></br>
+Fig 30: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Alliance%20Party%20of%20Northern%20Ireland-2022/digital*.png">digital*.png</a></br>
+Fig 31: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Alliance%20Party%20of%20Northern%20Ireland-2022/tech*.png">tech*.png</a></br> <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Alliance%20Party%20of%20Northern%20Ireland-2022/tech*2.png">tech*2.png</a></br>
+Fig 32: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Alliance%20Party%20of%20Northern%20Ireland-2022/cybercrime*.png">cybercrime*.png</a></br>
+Fig 33: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/SDLP_2022/tech*.png">tech*.png</a></br>
+Fig 34: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/SDLP_2022/broadband*.png">broadband*.png</a></br>
+Fig 35: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/SDLP_2022/online%2C%20data.png">online, data.png</a></br>
+Fig 36: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Greenparty_2019/digital*.png">digital*.png</a></br>
+Fig 37: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Greenparty_2019/tech*.png">tech*.png</a></br>
+Fig 38: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Greenparty_2019/broadband*%2Cdata*.png">broadband*,data*.png</a></br>
 Fig 39
 Fig 40
 Fig 41
