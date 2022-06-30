@@ -9,7 +9,7 @@ This thesis was submitted in the MA degree programme [Digital Cultures](https://
 
 # Overview of charts in this repository:
 
-Fig 1: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20Party-2019/digital*.png">digital*.png</a></br>
+Fig 1: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20Party-2019/digital*.png">LabourParty2020digital*.png</a></br>
 Fig 2: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20Party-2019/tech*.png">tech*.png</a></br>
 Fig 3: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20Party-2019/online*.png">online*.png</a></br>
 Fig 4: <a href="https://github.com/MonikaBarget/MA_DC_parties-and-digitalization/blob/main/Labour%20Party-2019/data*.png">data*.png</a></br>
